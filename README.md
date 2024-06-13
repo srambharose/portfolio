@@ -18,7 +18,7 @@ It's split into three main sections: Cornell Detailing, TooSix Productions and S
 ![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
 
-- I manage the social media presence across various channels, including Instagram (where I showcase the before and after pictures) and TikTok (where I demonstrate my video production skills using CapCut to create the before and after videos).
+- I manage the social media presence across various channels, including Instagram (where I showcase the before and after pictures) and TikTok (where I use CapCut to demonstrate my video production skills to create before and after videos).
 
 https://www.instagram.com/cornelldetailing/
 
