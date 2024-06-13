@@ -30,7 +30,7 @@ https://www.tiktok.com/@cornelldetailing
 ![Screenshot 2024-06-12 at 9 17 26 PM](https://github.com/srambharose/portfolio/assets/78698182/60a0ed29-0493-450b-a6a2-041b30b8dcb6)
 
 
-Here's a few examples demonstrating my ability to create digital and/or print files:
+Here's a few examples demonstrating my ability to create digital and print files:
 
 - Business cards, created on Illustrator, printed with VistaPrint:
 
