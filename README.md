@@ -86,7 +86,7 @@ https://www.youtube.com/@toosix
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/2e167747-2e9a-4959-8b99-6717009b9a0e)
 
-- Here's a link to my Canva, which I used to create graphics for PowerPoint presentations that I delivered to many teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- And finally, here's a link to my Canva, which I used to create graphics for many PowerPoint presentations that I delivered to the Senior's Health, Diabetes, Pharmacy, Physicians teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Thank you so much for taking the time to review my design portfolio and for considering me for the Marketing & Communications Coordinator position. 
 
