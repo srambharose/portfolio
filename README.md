@@ -69,6 +69,7 @@ Here's a few examples demonstrating my ability to create digital and print files
 
 https://www.youtube.com/@toosix
 
+
 **3. Scarborough Health Network**
 
 - Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
@@ -86,9 +87,10 @@ https://www.youtube.com/@toosix
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/2e167747-2e9a-4959-8b99-6717009b9a0e)
 
-- And finally, here's a link to my Canva, which I used to create graphics for many PowerPoint presentations that I delivered to the Senior's Health, Diabetes, Pharmacy, Physicians teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Thank you so much for taking the time to review my design portfolio and for considering me for the Marketing & Communications Coordinator position. 
+- And finally, here's a link to my Canva, which I used to create graphics for many PowerPoint presentations that I delivered to the Senior's Health, Diabetes, Patient Access, Pharmacy and Physician teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Thank you so much for taking the time to review my design portfolio and for considering me for the Marketing & Communications Coordinator position. I look forward to hearing from you soon!
 
 
 
