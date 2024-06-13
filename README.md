@@ -1,4 +1,6 @@
-👋 Hi I'm Sathya, and this will serve as my portfolio to support my application for the Marketing & Communications Coordinator position with SHN Foundation. 
+👋 Hi, I'm Sathya.  
+
+This will serve as my portfolio to support my application for the Marketing & Communications Coordinator position with SHN Foundation. 
 
 It's split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
 
