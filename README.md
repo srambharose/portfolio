@@ -60,11 +60,9 @@ https://www.youtube.com/@toosix
 
 - Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
 
-- I wanted to highlight some materials that I created for the 3MBW project:
+- Here's a Welcome Board I created for the 3MBW project:
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/4027c105-0c02-48d7-b708-c8f0ec558d1a)
-
-![Screenshot 2024-06-12 at 10 16 10 PM](https://github.com/srambharose/portfolio/assets/78698182/3d124f78-2d93-47d5-9bd9-45fe5dc2a6e9)
 
 
 - Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services on, to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
