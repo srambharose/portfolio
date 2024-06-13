@@ -4,6 +4,8 @@ This will serve as my portfolio to support my application for the Marketing & Co
 
 It's split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
 
+
+
 **1. Cornell Detailing**
 
 - This is an auto detailing brand that I created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
