@@ -1,14 +1,15 @@
 This is my portfolio for the Marketing & Communications Coordinator position at SHN:
 
 1. Cornell Detailing (www.cornelldetailing.com)
+
 This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
 
-All of the HTML, CSS and Javascript code was written in Visual Studio Code. I purchased and configured the .com and .ca domains, as well as set up the web and email hosting. I use MailChimp to manage the email marketing campaigns:
+All of the HTML, CSS and Javascript code was written in Visual Studio Code. I purchased and configured the .com and .ca domains, as well as set up the web and email hosting. I use MailChimp to manage the email marketing campaigns, here's an example of the most recent campaign:
 ![Screenshot 2024-06-12 at 8 57 57 PM](https://github.com/srambharose/portfolio/assets/78698182/a116f232-5120-4574-9646-d6611d38032c)
 
 
-
-Familiarity with digital marketing, including the development of digital and social media advertisements [Google Ads]
+I am familiar with current SEO practices and I use Google Ads to gain new leads, here's an example of the most recent ad:  
+![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
 
 
