@@ -2,70 +2,72 @@ This is my portfolio for the Marketing & Communications Coordinator position at 
 
 1. Cornell Detailing (www.cornelldetailing.com)
 
-This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
+- This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
 
-I wrote all of the HTML, CSS and Javascript code in Visual Studio Code. I purchased and configured the .com and .ca domains, as well as set up the web and email hosting. I use MailChimp to manage the email marketing campaigns, here's an example of the most recent campaign:
+- I wrote all of the HTML, CSS and Javascript code in Visual Studio Code. I purchased and configured the .com and .ca domains, as well as set up the web and email hosting. I use MailChimp to manage the email marketing campaigns, here's an example of the most recent campaign:
 
 ![Screenshot 2024-06-12 at 8 57 57 PM](https://github.com/srambharose/portfolio/assets/78698182/a116f232-5120-4574-9646-d6611d38032c)
 
 
-I am familiar with current SEO practices and I use Google Ads to gain new leads, here's an example of the latest ad:
+- I am familiar with current SEO practices and I use Google Ads to gain new leads, here's an example of the latest ad:
 
 ![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
-I manage the social media presence across various channels, including Instagram (where I showcase the before and after pictures) and TikTok (where I demonstrate my video production skills with the before and after videos).
+
+- I manage the social media presence across various channels, including Instagram (where I showcase the before and after pictures) and TikTok (where I demonstrate my video production skills with the before and after videos).
 
 https://www.instagram.com/cornelldetailing/
 
 https://www.tiktok.com/@cornelldetailing
 
 
-I use Notion to manage the entire project and to keep track of the business, marketing, accounting and operations notes:
+- I use Notion to manage the entire project and to keep track of the business, marketing, accounting and operations notes:
 
 ![Screenshot 2024-06-12 at 9 17 26 PM](https://github.com/srambharose/portfolio/assets/78698182/60a0ed29-0493-450b-a6a2-041b30b8dcb6)
 
 
 Here's a few examples demonstrating my ability to create digital and/or print files:
 
-Business cards, created on Illustrator, printed with VistaPrint:
+- Business cards, created on Illustrator, printed with VistaPrint:
 
 ![cd-business-card-v1 1](https://github.com/srambharose/portfolio/assets/78698182/6de9d87e-a4b1-47eb-9d22-ade043bbe1f1)
 ![cd-business-card-back-v1 1](https://github.com/srambharose/portfolio/assets/78698182/9b5f37f7-3bfe-44fa-8a99-01047fad19ad)
 
-A-frame sign, created on Photoshop, printed with VistaPrint:
+
+- A-frame sign, created on Photoshop, printed with VistaPrint:
 
 ![cd-signicade-preview](https://github.com/srambharose/portfolio/assets/78698182/9b37e5f6-9e51-482d-9899-cd15052f8b3e)
 
 
-T-shirts/merchandise, created on Photoshop, printed with VistaPrint and Sticker Mule:
+- T-shirts/merchandise, created on Photoshop, printed with VistaPrint and Sticker Mule:
 
 ![cd-white-hat-preview](https://github.com/srambharose/portfolio/assets/78698182/39852a66-fee9-48e0-baee-8f33cbf55a62)
 ![cd-black-tshirt-preview](https://github.com/srambharose/portfolio/assets/78698182/81c39c2d-4496-4e7b-b493-fdf110ed8a2e)
 
 
-Door hangers, created on Photoshop, printed with VistaPrint:
+- Door hangers, created on Photoshop, printed with VistaPrint:
 
 ![cd-door-hanger-preview](https://github.com/srambharose/portfolio/assets/78698182/c139b36c-dc3b-4bf5-8a5f-b18769ec19e3)
 
 
 2. TooSix Productions
 
-This channel started in Novemeber 2016. I wanted to challenge myself to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
+- This channel started in Novemeber 2016. I wanted to challenge myself to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
 
 https://www.youtube.com/@toosix
 
 3. Scarborough Health Network
 
-Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
+- Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
 
-I wanted to highlight some materials that I created for the 3MBW project:
+- I wanted to highlight some materials that I created for the 3MBW project:
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/4027c105-0c02-48d7-b708-c8f0ec558d1a)
 
 ![Screenshot 2024-06-12 at 10 16 10 PM](https://github.com/srambharose/portfolio/assets/78698182/3d124f78-2d93-47d5-9bd9-45fe5dc2a6e9)
 
 
-Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services on, to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
+- Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services on, to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/136e935d-bcf4-421c-8d12-cc19bb35754b)
 
@@ -73,7 +75,9 @@ Here's a Patient Experience Survey that I created on Miro, and collaborated with
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/2e167747-2e9a-4959-8b99-6717009b9a0e)
 
-Here's a link to my Canva, which I used to create graphics for PowerPoint presentations: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Here's a link to my Canva, which I used to create graphics for PowerPoint presentations: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+I appreciate you taking the time to review my design portfolio. 
 
 
 
