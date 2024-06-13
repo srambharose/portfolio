@@ -1,6 +1,8 @@
-This is my portfolio for the Marketing & Communications Coordinator position at SHN. It is split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
+This is Sathya Rambharose's portfolio for the Marketing & Communications Coordinator position at SHN. 
 
-1. Cornell Detailing
+It's split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
+
+**1. Cornell Detailing**
 
 - This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
 
