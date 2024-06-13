@@ -1,4 +1,4 @@
-This is Sathya Rambharose's portfolio for the Marketing & Communications Coordinator position at SHN. 
+This serves as Sathya Rambharose's portfolio for the Marketing & Communications Coordinator position at SHN. 
 
 It's split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
 
