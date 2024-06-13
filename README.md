@@ -14,24 +14,32 @@ I am familiar with current SEO practices and I use Google Ads to gain new leads,
 ![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
 
-I used Notion to manage the entire project and to keep track of the business, marketing, accounting and operations notes:
+I use Notion to manage the entire project and to keep track of the business, marketing, accounting and operations notes:
 
 ![Screenshot 2024-06-12 at 9 17 26 PM](https://github.com/srambharose/portfolio/assets/78698182/60a0ed29-0493-450b-a6a2-041b30b8dcb6)
 
 
-Examples demonstrating digital and/or print files:
+Here's a few examples demonstrating my ability to create digital and/or print files:
 
 Business cards, created on Adobe Illustrator, printed with VistaPrint:
 
 ![cd-business-card-v1 1](https://github.com/srambharose/portfolio/assets/78698182/6de9d87e-a4b1-47eb-9d22-ade043bbe1f1)
 ![cd-business-card-back-v1 1](https://github.com/srambharose/portfolio/assets/78698182/9b5f37f7-3bfe-44fa-8a99-01047fad19ad)
 
-
 A-frame sign
+
+![cd-signicade-preview](https://github.com/srambharose/portfolio/assets/78698182/9b37e5f6-9e51-482d-9899-cd15052f8b3e)
+
 
 T-shirts/merchandise
 
+
+
+
 Door hangers
+
+![cd-door-hanger-preview](https://github.com/srambharose/portfolio/assets/78698182/c139b36c-dc3b-4bf5-8a5f-b18769ec19e3)
+
 
 2. TooSix Productions
 Experience with illustration, animation, and/or videography [TooSix] Here's examples of the combination of my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
