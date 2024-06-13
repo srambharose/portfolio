@@ -14,6 +14,10 @@ I am familiar with current SEO practices and I use Google Ads to gain new leads,
 ![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
 
+I used Notion to manage the entire project and to keep track of the business, marketing, accounting and operations notes:
+
+![Screenshot 2024-06-12 at 9 17 26 PM](https://github.com/srambharose/portfolio/assets/78698182/60a0ed29-0493-450b-a6a2-041b30b8dcb6)
+
 
 Examples demonstrating digital and/or print files:
 
