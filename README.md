@@ -1,8 +1,8 @@
-This is my portfolio for the Marketing & Communications Coordinator position at SHN:
+This is my portfolio for the Marketing & Communications Coordinator position at SHN. It is split into three main sections: Cornell Detailing, TooSix Productions and Scarborough Health Network:
 
 1. Cornell Detailing (www.cornelldetailing.com)
 
-This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
+This is my auto detailing brand that was created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
 
 I wrote all of the HTML, CSS and Javascript code in Visual Studio Code. I purchased and configured the .com and .ca domains, as well as set up the web and email hosting. I use MailChimp to manage the email marketing campaigns, here's an example of the most recent campaign:
 
@@ -21,7 +21,11 @@ I used Notion to manage the entire project and to keep track of the business, ma
 
 Examples demonstrating digital and/or print files:
 
-Business cards
+Business cards, created on Adobe Illustrator, printed with VistaPrint:
+
+![cd-business-card-v1 1](https://github.com/srambharose/portfolio/assets/78698182/6de9d87e-a4b1-47eb-9d22-ade043bbe1f1)
+![cd-business-card-back-v1 1](https://github.com/srambharose/portfolio/assets/78698182/9b5f37f7-3bfe-44fa-8a99-01047fad19ad)
+
 
 A-frame sign
 
@@ -35,7 +39,7 @@ https://www.youtube.com/@toosix
 
 3. Scarborough Health Network
 
-
+Miro
 
 
 
