@@ -9,7 +9,8 @@ All of the HTML, CSS and Javascript code was written in Visual Studio Code. I pu
 ![Screenshot 2024-06-12 at 8 57 57 PM](https://github.com/srambharose/portfolio/assets/78698182/a116f232-5120-4574-9646-d6611d38032c)
 
 
-I am familiar with current SEO practices and I use Google Ads to gain new leads, here's an example of the most recent ad:  
+I am familiar with current SEO practices and I use Google Ads to gain new leads, here's an example of the latest ad:
+
 ![Screenshot 2024-06-12 at 9 10 39 PM](https://github.com/srambharose/portfolio/assets/78698182/8da944e0-de48-412e-afcb-5001088d1a04)
 
 
