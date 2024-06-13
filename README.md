@@ -78,7 +78,7 @@ https://www.youtube.com/@toosix
 ![image](https://github.com/srambharose/portfolio/assets/78698182/4027c105-0c02-48d7-b708-c8f0ec558d1a)
 
 
-- Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services on, to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
+- Here's a Patient Experience Survey that I created on Miro. I collaborated with Volunteer Services to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/136e935d-bcf4-421c-8d12-cc19bb35754b)
 
