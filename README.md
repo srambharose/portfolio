@@ -65,7 +65,7 @@ Here's a few examples demonstrating my ability to create digital and print files
 
 **2. TooSix Productions**
 
-- This channel started in Novemeber 2016. I wanted to challenge myself to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
+- This project started in Novemeber 2016. I wanted to challenge myself to produce video reviews, and to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
 
 https://www.youtube.com/@toosix
 
