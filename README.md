@@ -73,7 +73,7 @@ https://www.youtube.com/@toosix
 
 - Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
 
-- Here's a Welcome Poster I created for the 3MBW project:
+- Here's a Welcome Poster I created on Miro for the 3MBW project:
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/4027c105-0c02-48d7-b708-c8f0ec558d1a)
 
