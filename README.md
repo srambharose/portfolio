@@ -57,7 +57,7 @@ I wanted to highlight some materials that I created for the 3MBW project:
 ![Screenshot 2024-06-12 at 10 16 10 PM](https://github.com/srambharose/portfolio/assets/78698182/3d124f78-2d93-47d5-9bd9-45fe5dc2a6e9)
 
 
-Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for this design and was later asked to create a variation of this to help support the End PJ Paralysis initiative under the Quality Improvement team. 
+Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services on, to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for the design of this survey and was later asked to create a variation of it to support the End PJ Paralysis initiative under the Quality Improvement team. 
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/136e935d-bcf4-421c-8d12-cc19bb35754b)
 
