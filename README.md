@@ -21,22 +21,23 @@ I use Notion to manage the entire project and to keep track of the business, mar
 
 Here's a few examples demonstrating my ability to create digital and/or print files:
 
-Business cards, created on Adobe Illustrator, printed with VistaPrint:
+Business cards, created on Illustrator, printed with VistaPrint:
 
 ![cd-business-card-v1 1](https://github.com/srambharose/portfolio/assets/78698182/6de9d87e-a4b1-47eb-9d22-ade043bbe1f1)
 ![cd-business-card-back-v1 1](https://github.com/srambharose/portfolio/assets/78698182/9b5f37f7-3bfe-44fa-8a99-01047fad19ad)
 
-A-frame sign
+A-frame sign, created on Photoshop, printed with VistaPrint:
 
 ![cd-signicade-preview](https://github.com/srambharose/portfolio/assets/78698182/9b37e5f6-9e51-482d-9899-cd15052f8b3e)
 
 
-T-shirts/merchandise
+T-shirts/merchandise, created on Photoshop, printed with VistaPrint and Sticker Mule:
+
+![cd-white-hat-preview](https://github.com/srambharose/portfolio/assets/78698182/39852a66-fee9-48e0-baee-8f33cbf55a62)
+![cd-black-tshirt-preview](https://github.com/srambharose/portfolio/assets/78698182/81c39c2d-4496-4e7b-b493-fdf110ed8a2e)
 
 
-
-
-Door hangers
+Door hangers, created on Photoshop, printed with VistaPrint:
 
 ![cd-door-hanger-preview](https://github.com/srambharose/portfolio/assets/78698182/c139b36c-dc3b-4bf5-8a5f-b18769ec19e3)
 
