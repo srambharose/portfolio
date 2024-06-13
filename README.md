@@ -54,13 +54,13 @@ Here's a few examples demonstrating my ability to create digital and/or print fi
 ![cd-door-hanger-preview](https://github.com/srambharose/portfolio/assets/78698182/c139b36c-dc3b-4bf5-8a5f-b18769ec19e3)
 
 
-2. TooSix Productions
+**2. TooSix Productions**
 
 - This channel started in Novemeber 2016. I wanted to challenge myself to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
 
 https://www.youtube.com/@toosix
 
-3. Scarborough Health Network
+**3. Scarborough Health Network**
 
 - Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
 
