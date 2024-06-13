@@ -50,21 +50,22 @@ https://www.youtube.com/@toosix
 
 Miro was used extensively during my time as a Jr. Consultant on the Project Management & Improvement team at SHN. Miro is similar to Figma. I used it to design various documents including process maps and team-based models for stakeholders of several different projects such as the 3MBW Refresh project, Diabetes Education Centre staff consolidation project, Centralized Patient Scheduling optimization project and Pharmacy's PCA Pump Switch-Out project. Here's a link to the Miro board for the 3MBW Refresh project: https://miro.com/app/board/uXjVND3xD4g=/
 
-I wanted to highlight some materials that I created for 3MBW as part of their Refresh project:
+I wanted to highlight some materials that I created for the 3MBW project:
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/4027c105-0c02-48d7-b708-c8f0ec558d1a)
 
 ![Screenshot 2024-06-12 at 10 16 10 PM](https://github.com/srambharose/portfolio/assets/78698182/3d124f78-2d93-47d5-9bd9-45fe5dc2a6e9)
 
 
-Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. 
+Here's a Patient Experience Survey that I created on Miro, and collaborated with Volunteer Services to gather feedback directly from the patients. I analyzed the data and presented it to the Senior Leadership Team, physicians, managers, CPLs and frontline staff. I received praise for this design and was later asked to create a variation of this to help support the End PJ Paralysis initiative under the Quality Improvement team. 
 
 ![image](https://github.com/srambharose/portfolio/assets/78698182/136e935d-bcf4-421c-8d12-cc19bb35754b)
 
 ![Screenshot 2024-06-12 at 10 12 43 PM](https://github.com/srambharose/portfolio/assets/78698182/67824291-65a8-46db-bf35-b26eec3c8e64)
 
+![image](https://github.com/srambharose/portfolio/assets/78698182/2e167747-2e9a-4959-8b99-6717009b9a0e)
 
-Here's a link to my Canva, which I used to create graphics for presentations: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Here's a link to my Canva, which I used to create graphics for PowerPoint presentations: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
