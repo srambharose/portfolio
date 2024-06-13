@@ -43,6 +43,11 @@ Here's a few examples demonstrating my ability to create digital and print files
 ![cd-signicade-preview](https://github.com/srambharose/portfolio/assets/78698182/9b37e5f6-9e51-482d-9899-cd15052f8b3e)
 
 
+- Mesh banner, created on Photoshop, printed with VistaPrint:
+
+![cd-mesh-banner](https://github.com/srambharose/portfolio/assets/78698182/30291306-b0e7-4414-aa0b-71a8671d8bd9)
+
+
 - T-shirts/merchandise, created on Photoshop, printed with VistaPrint and Sticker Mule:
 
 ![cd-white-hat-preview](https://github.com/srambharose/portfolio/assets/78698182/39852a66-fee9-48e0-baee-8f33cbf55a62)
