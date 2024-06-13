@@ -10,7 +10,7 @@ It's split into three main sections: Cornell Detailing, TooSix Productions and S
 
 - This is an auto detailing brand that I created in September 2022. I have spent a considerable amount of time researching and designing the logo, UI/UX, style guide, colour palette, font choices and the overall feel of the brand. All webpages were designed in Figma: https://www.figma.com/design/SQxidSxgscnmfaBj1BJIXf/Cornell-Detailing-v2?node-id=0-1&t=IS19FE4tZcq617Uv-1
 
-- I wrote all of the HTML, CSS and Javascript code in Visual Studio Code. I purchased the domains, and configured the web and email hosting. Here's the live site: www.cornelldetailing.com
+- I wrote all of the HTML, CSS and JavaScript code in Visual Studio Code. I purchased the domains, and configured the web and email hosting. Here's the live site: www.cornelldetailing.com
 
 - I use MailChimp to manage the email marketing campaigns, here's an example of the most recent campaign:
 
@@ -65,7 +65,7 @@ Here's a few examples demonstrating my ability to create digital and print files
 
 **2. TooSix Productions**
 
-- This project started in Novemeber 2016. I wanted to challenge myself to produce video reviews, and to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
+- This project started in November 2016. I wanted to challenge myself to produce video reviews, and to grow my communication and creative skills. The videos on this channel demonstrate my script writing, video production, video editing (Premiere Pro) and animation (After Effects) skills:
 
 https://www.youtube.com/@toosix
 
@@ -88,7 +88,7 @@ https://www.youtube.com/@toosix
 ![image](https://github.com/srambharose/portfolio/assets/78698182/2e167747-2e9a-4959-8b99-6717009b9a0e)
 
 
-- And finally, here's a link to my Canva, which I used to create graphics for many PowerPoint presentations that I delivered to the Senior's Health, Diabetes, Patient Access, Pharmacy and Physician teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- And finally, here's a link to my Canva, which I used to create graphics for many PowerPoint presentations that I delivered to the Seniors' Health, Diabetes, Patient Access, Pharmacy and Physician teams at SHN: https://www.canva.com/design/DAF0NLnEjoE/PT96RXGW5A_rvLsAVM_AGg/edit?utm_content=DAF0NLnEjoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Thank you so much for taking the time to review my design portfolio and for considering me for the Marketing & Communications Coordinator position. I look forward to hearing from you soon!
 
